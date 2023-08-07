@@ -86,7 +86,7 @@
             <h1>Butuh Laptop...</h1>
             <h1>Ada <span>Solit</span></h1>
             <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Neque, iusto.</p>
-            <a href="#" class="cta">Beli Sekarang</a>
+            {{-- <a href="#" class="cta">Beli Sekarang</a> --}}
 
         </main>
     </section>
