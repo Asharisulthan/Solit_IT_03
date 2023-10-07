@@ -34,3 +34,28 @@ Route::get('/dashboard', [DashboardAdminController::class, 'index'])->middleware
 Route::get('/card', function () {
     return view('card');
 });
+
+//  Layouts Contents
+Route::get('/', function () {
+    return view('home');
+});
+
+Route::get('/about', function () {
+    return view('about');
+});
+
+Route::get('/menu', function () {
+    return view('menu');
+});
+
+Route::get('/produk', function () {
+    return view('produk');
+});
+
+Route::get('/kontak', function () {
+    return view('kontak');
+});
+
+Route::get('/image', function () {
+    return view('layouts/imagegl');
+});
