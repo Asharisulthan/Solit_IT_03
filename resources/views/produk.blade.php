@@ -19,7 +19,7 @@
             </div>
             <div class="product-content">
                 <h3>Toshiba Dynabook R73</h3>
-                <h3 style="color:Green;">Ready 62 Unit</h3>
+                <h3 style="color:Green;">Ready 47 Unit</h3>
                 <!--<div class="product-stars">-->
                 <!--    <i data-feather="star"></i>-->
                 <!--    <i data-feather="star"></i>-->
@@ -61,7 +61,7 @@
             </div>
             <div class="product-content">
                 <h3>Lenovo Ideapad Slim 5</h3>
-                <h3 style="color:Red;">Unit Kosong</h3>
+                <h3 style="color:Green;">Ready 1 Unit</h3>
                 <!--<div class="product-stars">-->
                 <!--    <i data-feather="star"></i>-->
                 <!--    <i data-feather="star"></i>-->
@@ -69,7 +69,7 @@
                 <!--    <i data-feather="star"></i>-->
                 <!--    <i data-feather="star"></i>-->
                 <!--</div>-->
-                <div class="product-price">Rp 8.500.000 <span>Rp 8.800.000</span></div>
+                <div class="product-price">Rp 7.200.000 <span>Rp 7.500.000</span></div>
             </div>
         </div>
         <div class="product-card">
@@ -189,7 +189,7 @@
             </div>
             <div class="product-content">
                 <h3>Macbook Pro 2013</h3>
-                <h3 style="color:Green;">Ready 5 Unit</h3>
+                <h3 style="color:Red;">Unit Kosong</h3>
                 <!--<div class="product-stars">-->
                 <!--    <i data-feather="star"></i>-->
                 <!--    <i data-feather="star"></i>-->
@@ -210,7 +210,7 @@
             </div>
             <div class="product-content">
                 <h3>Lenovo Thinkpad X1 Carbon 3rd</h3>
-                <h3 style="color:Green;">Ready 16 Unit</h3>
+                <h3 style="color:Green;">Ready 15 Unit</h3>
                 <!--<div class="product-stars">-->
                 <!--    <i data-feather="star"></i>-->
                 <!--    <i data-feather="star"></i>-->
@@ -231,7 +231,7 @@
             </div>
             <div class="product-content">
                 <h3>Tab NEC Versapro VS-U (Tab Only)</h3>
-                <h3 style="color:Green;">Ready 43 Unit</h3>
+                <h3 style="color:Green;">Ready 39 Unit</h3>
                 <!--<div class="product-stars">-->
                 <!--    <i data-feather="star"></i>-->
                 <!--    <i data-feather="star"></i>-->
@@ -273,7 +273,7 @@
             </div>
             <div class="product-content">
                 <h3>Lenovo Ideapad S340</h3>
-                <h3 style="color:Green;">Ready 5 Unit</h3>
+                <h3 style="color:Red;">Unit Kosong</h3>
                 <!--<div class="product-stars">-->
                 <!--    <i data-feather="star"></i>-->
                 <!--    <i data-feather="star"></i>-->
@@ -294,7 +294,7 @@
             </div>
             <div class="product-content">
                 <h3>Lenovo Thinkpad E470</h3>
-                <h3 style="color:Green;">Ready 4 Unit</h3>
+                <h3 style="color:Green;">Ready 1 Unit</h3>
                 <!--<div class="product-stars">-->
                 <!--    <i data-feather="star"></i>-->
                 <!--    <i data-feather="star"></i>-->
@@ -315,7 +315,7 @@
             </div>
             <div class="product-content">
                 <h3>Lenovo Thinkpad X1 Carbon 2nd</h3>
-                <h3 style="color:Green;">Ready 4 Unit</h3>
+                <h3 style="color:Green;">Ready 2 Unit</h3>
                 <!--<div class="product-stars">-->
                 <!--    <i data-feather="star"></i>-->
                 <!--    <i data-feather="star"></i>-->

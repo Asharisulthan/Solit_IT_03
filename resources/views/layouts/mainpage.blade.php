@@ -40,8 +40,8 @@
         </div>
 
         <div class="navbar-extra">
-            <a href="#" id="search-button"><i data-feather="search"></i></a>
-            <a href="#" id="shopping-cart-button"><i data-feather="shopping-cart"></i></a>
+            {{-- <a href="#" id="search-button"><i data-feather="search"></i></a> --}}
+            {{-- <a href="#" id="shopping-cart-button"><i data-feather="shopping-cart"></i></a> --}}
         @auth
         <div class="dropdown">
             <button onclick="myFunction()" class="dropbtn">
@@ -58,7 +58,7 @@
           </div>
         </div>
         @else
-        <a href="/login" id="login-user"><i data-feather="user"></i></a>
+        {{-- <a href="/login" id="login-user"><i data-feather="user"></i></a> --}}
         @endauth
             <a href="#" id="hamburger-menu"><i data-feather="menu"></i></a>
         </div>
@@ -706,7 +706,7 @@
     <div class="modal-container">
         <a href="#" class="close-icon13"><i data-feather="x"></i></a>
         <div class="modal-content">
-            <img src="img/img-laptop/lenovo-m92p-i5gen3.jpeg" alt="Product 13 ">
+            <img src="img/img-laptop/lenovo-ideapad-s340.jpg" alt="Product 13 ">
             <div class="product-content">
             <h5>Lenovo Ideapad S340</h5>
                 <p>Spesifikasi<br/>
