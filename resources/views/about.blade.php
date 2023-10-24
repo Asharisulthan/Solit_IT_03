@@ -57,8 +57,8 @@
                 {{-- <p class="gallery-card-price">IDR 2.800.000</p> --}}
             </div>
             <div class="gallery-card">
-                <img src="img/timsolit/dimas-kunn.jpg" alt="M. Dimas Khoirulanam" class="gallery-card-img">
-                <h3 class="gallery-card-title"> M. Dimas </br>Khoirulanam </h3>
+                <img src="img/timsolit/iqbal.jpg" alt="M. Iqbal Nugraha" class="gallery-card-img">
+                <h3 class="gallery-card-title"> M. Iqbal </br>Nugraha </h3>
                 {{-- <p class="gallery-card-price">IDR 2.800.000</p> --}}
             </div>
             <div class="gallery-card">
@@ -81,6 +81,21 @@
                 <h3 class="gallery-card-title"> Adul </br> Syaputra </h3>
                 {{-- <p class="gallery-card-price">IDR 2.800.000</p> --}}
             </div>
+            <div class="gallery-card">
+                <img src="img/timsolit/fitri.jpg" alt="Fitri Hidayat" class="gallery-card-img">
+                <h3 class="gallery-card-title"> Fitri </br> Hidayat </h3>
+                {{-- <p class="gallery-card-price">IDR 2.800.000</p> --}}
+            </div>
+            <div class="gallery-card">
+                <img src="img/timsolit/yulfa.jpg" alt="Yulfa" class="gallery-card-img">
+                <h3 class="gallery-card-title"> Yulfa</h3>
+                {{-- <p class="gallery-card-price">IDR 2.800.000</p> --}}
+            </div>
+            <div class="gallery-card">
+                <img src="img/timsolit/mas-ahmad.jpg" alt="Rizqi Ahmad" class="gallery-card-img">
+                <h3 class="gallery-card-title"> Rizqi </br> Ahmad </h3>
+                {{-- <p class="gallery-card-price">IDR 2.800.000</p> --}}
+            </div>  
         </div>
         
 </section>

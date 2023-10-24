@@ -14,6 +14,9 @@ return new class extends Migration
         Schema::create('pembeli', function (Blueprint $table) {
             $table->id('id_pembeli');
             $table->string('nama_pembeli');
+            $table->string('email')->unique();
+            $table->timestamp('email_verified_at')->nullable();
+            $table->string('password');
             $table->text('alamat');
             $table->string('kota');
             $table->string('provinsi');
